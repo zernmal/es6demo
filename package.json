@@ -1,0 +1,15 @@
+{
+    "name": "es6demo",
+    "version": "0.0.1",
+    "author": "zernmal",
+    "description": "",
+    "scripts": {
+        "start": "grunt"
+    },
+    "dependencies": {
+    	"grunt-babel" : "*",
+    	"grunt" : "*",
+    	"load-grunt-tasks": "*",
+        "grunt-contrib-watch": "*"
+    }
+}
